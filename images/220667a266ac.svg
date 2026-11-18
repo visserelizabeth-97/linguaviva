@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120"><defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6d98b"/><stop offset="1" stop-color="#e2b45a"/></linearGradient></defs><g stroke="#a8771f" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="url(#g)">
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 48 L142 24"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 53 L142 29"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 58 L142 34"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 63 L142 39"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 68 L142 44"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 73 L142 49"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 78 L142 54"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 83 L142 59"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 88 L142 64"/>
+<path fill="none" stroke="#d9a441" stroke-width="3.2" d="M18 93 L142 69"/>
+<rect x="66" y="34" width="14" height="52" rx="3" fill="#c0392b" stroke="#8e2a1f" transform="rotate(-11 73 60)"/>
+</g></svg>
